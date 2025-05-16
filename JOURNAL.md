@@ -1,0 +1,6 @@
+5-15-2025 
+Here begins the journey! I've put in around 3 hours so far into learning the ABSOLUTE basics of circuits (e.g. diodes, resistance, current, voltage, etc etc) and I think I'm around ready to begin the actual process of designing and making a pedal!
+I've researched how fuzz pedals work precisely, and from what I've found so far they use *transistors* to amplify the input signal (giving it a somewhat "squashed" or compressed / distorted tone) and *diodes* to clip the input, giving it a "fuzzy" sound! 
+There are, of course, other components suited for directing and controlling the current - but those will be detailed later. The end result of these transformations is a more square-wave-esque output signal! 
+I'm ending this journal entry for now, as I'm quite tired, and will provide better quality journal entries later on / in the morning.
+Total hours spent: 3.5
